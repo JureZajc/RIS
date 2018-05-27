@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RIS_naloga</string>
+    <string name="action_settings">Settings</string>
+    <string name="izdaj_racun">Izdaj račun</string>
+    <string name="dodaj_knjige">Dodaj knjige</string>
+    <string name="dodaj_kolicino">Dodaj količino</string>
+
+</resources>
